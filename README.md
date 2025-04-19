@@ -171,6 +171,7 @@ You can also create a `.python-version` file in your project:
 ```bash
 echo "3.12" > .python-version
 ```
+You can also follow 
 
 ---
 
@@ -204,6 +205,11 @@ You now have a Claude-compatible MCP server that supports:
 
 
 
+
+### Some more resources to follow. 
+- locally running the MCP with free servers https://github.com/mcptutorial/mcp-use/blob/main/README.md
+
+- To read more on the MCP protocol https://github.com/modelcontextprotocol/python-sdk?tab=readme-ov-file
 
 
 
