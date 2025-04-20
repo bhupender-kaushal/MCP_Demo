@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+mcp_example.egg-info/PKG-INFO
+mcp_example.egg-info/SOURCES.txt
+mcp_example.egg-info/dependency_links.txt
+mcp_example.egg-info/requires.txt
+mcp_example.egg-info/top_level.txt

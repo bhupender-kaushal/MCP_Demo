@@ -1,3 +1,11 @@
+Metadata-Version: 2.4
+Name: mcp-example
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: mcp[cli]>=1.6.0
+
 # 🤖 Claude-Compatible MCP Server Setup
 
 This guide walks you through setting up a Claude-compatible MCP server using Python, `FastMCP`, and [`uv`](https://astral.sh), with support for both **Windows** and **macOS/Linux**.
