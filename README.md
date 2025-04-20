@@ -15,7 +15,12 @@ This guide walks you through setting up a Claude-compatible MCP server using Pyt
 ## Installing the mcp packahe using uv 
 ```bash
 uv add "mcp[cli]"
+
 ```
+
+## Installing the Claude is mandatory 
+
+
 
 ## 📁 Step 1: Create Your MCP Server (`main.py`)
 
